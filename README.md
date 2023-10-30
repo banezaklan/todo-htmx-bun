@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-You'll need to setup Bun. 
+You'll need to setup [Bun](https://bun.sh/). 
 
 Install dependencies
 ```
