@@ -1,15 +1,17 @@
-# Elysia with Bun runtime
+# Todo app using bun and htmx (and some hyperscript ;) 
 
 ## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
+
+You'll need to setup Bun. 
+
+Install dependencies
+```
+bun i
 ```
 
-## Development
 To start the development server run:
 ```bash
-bun run dev
+bun run ./src/start.ts
 ```
 
 Open http://localhost:3000/ with your browser to see the result.
